@@ -11,6 +11,9 @@ public class FinHealthApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+		System.out.println("Test");
+
 	}
 
 }
